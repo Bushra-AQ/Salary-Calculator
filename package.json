@@ -1,5 +1,6 @@
 {
-  "homepage": "https://bushra-aq.github.io/Salary-Calculator/",
+  
+  "homepage" : "https://{bushra-aq}.github.io/{Salary-Calculator}",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
